@@ -225,7 +225,7 @@
 export default {
   data () {
     return {
-      title: 'My portfolio',
+      title: 'Marez Vue-Resume',
       name: 'DANNY',
       surname: 'MAREZ',
       address: '720 16th Street · Denver, CO 80202 · (720) 427-4582 ·',
