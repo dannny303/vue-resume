@@ -206,6 +206,9 @@
           <div class="subheading mb-3">Projects</div>
             <a href="https://arcane-sea-76068.herokuapp.com">Wishin I Was Fishin</a>
             <p>A site to look up Colorado surface water information and log trip reports utilizing Flask, several API's and an SQL database.</p>
+            <br>
+            <a href="http://theneusteters.com">Residences at Neusteters</a>
+            <p>Bootstrap themed residential website. Containing HOA docs, blog and general building information. Python, Flask and Django database</p>
         </div>
       </section>
 
